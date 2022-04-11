@@ -1,7 +1,7 @@
 {
 	"name": "star-wars",
 	"version": "0.1.1",
-	"homepage": "https://gorazqiy.github.io/Star-Wars/",
+	"homepage": "https://gorazqiy.github.io/-Star-Wars-React/",
 	"private": true,
 	"dependencies": {
 		"classnames": "^2.3.1",
